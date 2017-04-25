@@ -1,21 +1,21 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Monthly Statistical Data
+  i18n: Monthly Statistical Data
+  #gh_user: jarrekk
+  #repo: Jalpc
+  img: /static/assets/img/landing/MonthlyStats.png
+  desc: Dashboard presents Turkish financial markets data in different aspects (by investor type, by investor segments, by investor age, by Indices, by  geography city & country). My role was to prepare underlying data and to develope the dashboard. => https://portal.mkk.com.tr/portal/?locale=en#MonthlyStatistical-Data
 
-- name: LeetCode
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
-  img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: (Investors) Risk Appetite Index - RISE
+  i18n: (Investors) Risk Appetite Index - RISE
+#  gh_user: kamyu104
+#  repo: LeetCode
+  img: /static/assets/img/landing/RISE.png
+  desc: The weekly calculated RISE model is designed to measure the risk appetite of investor groups on the stock market. The algorithm trained on R and Oracle. My role was to prepare the underlying data, to train the calculation model and to develope the visualization => https://www.mkk.com.tr/en/risk-index
 
-- name: FamilyCODE Wchat
-  i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+- name: MKK Mobile BI App - iPhone & iPad (Internal Use)
+  i18n: MKK Mobile BI App - iPhone & iPad (Internal Use)
+  img: /static/assets/img/landing/Mobile.png
+  desc: Developed internal mobile BI applications for MKK on iPad and iPhone using Microstrategy Mobile capabilities

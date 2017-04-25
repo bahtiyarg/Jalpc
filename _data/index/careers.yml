@@ -1,29 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: A new beginning. 
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I moved to the USA.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Mar. 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Green Card Holder
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-plane
 
 - name:
-    detail: Company B
+    detail: MKK - Turkey’s Central Securities Depository Istanbul, TURKEY
+    i18n: company_a
+  desc:
+    detail: Led the Data Warehouse & BI team of five people in an agile development environment. Worked with Microstrategy and Oracle products.
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2008 - Mar. 2017
+    i18n: company_a_date
+  job:
+    detail: Senior BI Developer
+    i18n: company_a_job
+  icon: fa-university
+
+- name:
+    detail: MKK - Turkey’s Central Securities Depository Istanbul, TURKEY
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Supported and improved MKK’s in-house core application called “MKS”
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Aug. 2007 - Aug. 2008
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Business Analyst
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-university
+
+
+- name:
+    detail: Eskisehir Osmangazi University, Eskisehir, TURKEY
+    i18n: company_b
+  desc:
+    detail: At June 2006, I graduated from college.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2002 - June 2006
+    i18n: company_b_date
+  job:
+    detail: Bachelor’s Degree - Industrial Engineering
+    i18n: company_b_job
+  icon: fa-graduation-cap
