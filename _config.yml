@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Bahtiyar Gursoy  # Be used at blog posts' author.
   first_name: Bahtiyar  # Be used at index page about me section.
   last_name: Gursoy  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/bahti.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpg #bahti.jpg  # upload your avatar at directory and edit it.
   github_username: bahtiyarg  # Leave blank if you don't have now
   linkedin_id: bahtiyarg # Leave blank if you don't have now
   facebook_username: bahtiyarg  # Leave blank if you don't have now
