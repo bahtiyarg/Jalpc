@@ -2,7 +2,7 @@
 
 # Website settings
 title: Bahtiyar Gursoy
-description: BI Developer / Data Engineer / Lifelong Learner / New Father
+description: BI Developer / Data Engineer / Lifelong Learner # / New Father
 keywords: Developer,BI Developer,Data Engineer,Lifelong Learner,Basketballer,blog,Jekyll,github,gh-pages,Microstrategy,Oracle
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://wwww.bahtiyarg.com  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-tachometer #icon-python
     - name: icon-java-bold #icon-aws
-  desc: BI Developer / Data Engineer / Lifelong Learner / New Father  # Describe yourself.
+  desc: BI Developer / Data Engineer / Lifelong Learner # / New Father  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

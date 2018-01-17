@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Data Warehousing, Business Intelligence, SQL & PL/SQL, Data Modeling, Python, Java, ETL
-percentage: 90, 95, 95, 85, 60, 50, 80
+aspects: Data Warehousing, Business Intelligence, Data Modeling, ETL, Python & Java, PL/SQL , SQL
+percentage: 90, 95, 80, 75, 55, 65, 90

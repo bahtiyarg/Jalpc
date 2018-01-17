@@ -1,18 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: I moved to the USA. 
-    i18n: company_a
-  desc:
-    detail: A new beginning.
-    i18n: company_a_desc
-  date:
-    detail: Mar. 2017
-    i18n: company_a_date
-  job:
-    detail: Green Card Holder
-    i18n: company_a_job
-  icon: fa-plane
+#- name:
+#    detail: I moved to the USA. 
+#    i18n: company_a
+#  desc:
+#    detail: A new beginning.
+#    i18n: company_a_desc
+#  date:
+#    detail: Mar. 2017
+#    i18n: company_a_date
+#  job:
+#    detail: Green Card Holder
+#    i18n: company_a_job
+#  icon: fa-plane
 
 - name:
     detail: MKK - Turkey’s Central Securities Depository Istanbul, TURKEY
@@ -21,7 +21,7 @@
     detail: Led the Data Warehouse & BI team of five people in an agile development environment. Worked with Microstrategy and Oracle products.
     i18n: company_a_desc
   date:
-    detail: Aug. 2008 - Mar. 2017
+    detail: Aug. 2008 - May 2017
     i18n: company_a_date
   job:
     detail: Senior BI Developer
